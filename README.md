@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 <img align="right" height=100% alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
 - 🌱 I’m currently an undergrad at NIT , Warangal .<br>
+- 📖 Learning new stuff is my hobby .<br>
+- 👨‍💻 Fusing Coding to my DNA .<br>
+- 💻 Learning js frameworks currently.<br>
 - 🍔 Food is my life.<br>
 - 💬 Ask me anythin .<br>
 - 📫 Connect with me through linkedin , insta or mail.<br>
