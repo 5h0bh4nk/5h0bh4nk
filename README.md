@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 <a href="mailto:kul.shubhank207@gmail.com">
   <img align="left" alt="Amit's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<br><br>
 
 <br/>
-<div class="align-items-center">
-**My work is mostly realted to Cyber-Security and Web-Development**
-- 👨‍💻  **Check out my repos to view some of my work**   👨‍💻
+
+<h3 align="center">**My work is mostly realted to Cyber-Security and Web-Development**</h3>
+<h3 align="center"> 👨‍💻  **Check out my repos to view some of my work**   👨‍💻</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true&theme=dark" alt="ShubhanK" /></p>
