@@ -17,8 +17,8 @@
 
 <br/>
 
-<h3 align="center">**My work is mostly realted to Cyber-Security and Web-Development**</h3>
-<h3 align="center"> 👨‍💻  **Check out my repos to view some of my work**   👨‍💻</h3>
+<h2 align="center">My work is mostly realted to Cyber-Security and Web-Development</h2>
+<h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" />
 
