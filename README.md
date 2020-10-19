@@ -5,7 +5,6 @@
 **5h0bh4nk/5h0bh4nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
 <h3 align="center">A budding developer keen to learn</h3>
-
-<h1 align="center">
+<div class="align-items-center">
 <a href="https://https://www.linkedin.com/in/shubhank-kulshreshtha-782627190/">
   <img align="left" alt="Shubhank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -29,7 +28,7 @@ Here are some ideas to get you started:
 <a href="mailto:kul.shubhank207@gmail.com">
   <img align="left" alt="Amit's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-</h1>
+</div>
 <br><br>
 
 <br/>
@@ -37,4 +36,11 @@ Here are some ideas to get you started:
 <h3 align="center">**My work is mostly realted to Cyber-Security and Web-Development**</h3>
 <h3 align="center"> 👨‍💻  **Check out my repos to view some of my work**   👨‍💻</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true&theme=dark" alt="ShubhanK" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" /></p>
+
+
+- 🌱 I’m currently learning js frameworks
+- 💬 Ask me anythin .
+- 📫 Connect with me through linkedin , insta or mail. 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
