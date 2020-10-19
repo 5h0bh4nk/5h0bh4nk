@@ -17,7 +17,9 @@
 
 <h2 align="center">My work is mostly realted to Cyber-Security and Web-Development</h2>
 <h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" /><br>
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" ">
+</p>
 
 <img align="right" height=100% alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" >
 - 🌱 I’m currently an undergrad at NIT , Warangal .<br>
