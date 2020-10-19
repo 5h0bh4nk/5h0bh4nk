@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h3 align="center">**My work is mostly realted to Cyber-Security and Web-Development**</h3>
 <h3 align="center"> 👨‍💻  **Check out my repos to view some of my work**   👨‍💻</h3>
 
-<iframe src="https://giphy.com/embed/xT1XGzXhVgWRLN1Cco" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" /></p>
 
 
