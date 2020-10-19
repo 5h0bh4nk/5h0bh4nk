@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" /></p>
 
 <img align="right" height=100% alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
-- 🌱 I’m currently learning js frameworks
-- 💬 Ask me anythin .
-- 📫 Connect with me through linkedin , insta or mail. 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning js frameworks<br>
+- 💬 Ask me anythin .<br>
+- 📫 Connect with me through linkedin , insta or mail. <br>
+- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
