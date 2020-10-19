@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-***My work is mostly realted to Cyber-Security and Web-Development***
-- 👨‍💻  ***Check out my repos to view some of my work***   👨‍💻
+**My work is mostly realted to Cyber-Security and Web-Development**
+- 👨‍💻  **Check out my repos to view some of my work**   👨‍💻
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true&theme=dark" alt="ShubhanK" /></p>
