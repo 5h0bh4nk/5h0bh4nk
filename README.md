@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
 <h3 align="center">A budding developer keen to learn</h3>
-
+<div class="align-items-center">
 <a href="https://https://www.linkedin.com/in/shubhank-kulshreshtha-782627190/">
   <img align="left" alt="Shubhank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <a href="mailto:kul.shubhank207@gmail.com">
   <img align="left" alt="Amit's E-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+</div>
 <br><br>
 
 <br/>
