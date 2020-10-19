@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" />
 
 <img align="right" height=100% alt="GIF" src="https://media.giphy.com/media/xT1XGzXhVgWRLN1Cco/giphy.gif" />
-**- 🌱 I’m currently an undergrad at NIT , Warangal .<br>
-- 🍔 Food is my life.<br>
+**- 🌱 I’m currently an undergrad at NIT , Warangal .**<br>
+**- 🍔 Food is my life.**<br>
 **- 💬 Ask me anythin .<br>
 - 📫 Connect with me through linkedin , insta or mail. <br>
 **- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
