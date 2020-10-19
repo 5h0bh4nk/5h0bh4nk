@@ -26,8 +26,8 @@
 - 🌱 I’m currently an undergrad at NIT , Warangal .<br>
 - 📖 Learning new stuff is my hobby .<br>
 - 👨‍💻 Fusing Coding to my DNA .<br>
-- 💻 Learning js frameworks currently.<br>
+- 💻 Learning js frameworks .<br>
 - 🍔 Food is my life.<br>
-- 💬 Ask me anythin .<br>
-- 📫 Connect with me through linkedin , insta or mail.<br>
-- ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories.<br>
+- 💬 Ask me anythin .Happy to help .<br>
+- 📫 Connect with me through linkedin , insta or via mail.<br>
+- ⚡ <b>Fun fact: Banging your head against a wall for one hour burns 150 calories.</b><br>
