@@ -22,7 +22,7 @@
 </p>
 
 
-<img align="right" height="100px" width="50px" alt="shubhank octocat" src="octocat.png" >
+<img align="right" height="300px" width="200px" alt="shubhank octocat" src="octocat.png" >
 - 🌱 I’m currently an undergrad at NIT , Warangal .<br>
 - 📖 Learning new stuff is my hobby .<br>
 - 👨‍💻 Fusing Coding to my DNA .<br>
