@@ -21,7 +21,7 @@
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" ">
 </p>
 
-<img align="right" alt="shubhank octocat" src="octocat.png" >
+
 - 🌱 I’m currently an undergrad at NIT , Warangal .<br>
 - 📖 Learning new stuff is my hobby .<br>
 - 👨‍💻 Fusing Coding to my DNA .<br>
@@ -30,3 +30,5 @@
 - 💬 Ask me anythin .Happy to help .<br>
 - 📫 Connect with me through linkedin , insta or via mail.<br>
 - ⚡ <b>Fun fact: Banging your head against a wall for one hour burns 150 calories.</b><br>
+
+<img align="right" alt="shubhank octocat" src="octocat.png" >
