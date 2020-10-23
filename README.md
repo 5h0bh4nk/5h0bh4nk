@@ -22,6 +22,7 @@
 </p>
 
 
+<img align="right" height="100px" width="50px" alt="shubhank octocat" src="octocat.png" >
 - 🌱 I’m currently an undergrad at NIT , Warangal .<br>
 - 📖 Learning new stuff is my hobby .<br>
 - 👨‍💻 Fusing Coding to my DNA .<br>
@@ -31,4 +32,3 @@
 - 📫 Connect with me through linkedin , insta or via mail.<br>
 - ⚡ <b>Fun fact: Banging your head against a wall for one hour burns 150 calories.</b><br>
 
-<img align="right" alt="shubhank octocat" src="octocat.png" >
