@@ -19,9 +19,7 @@
 <h2 align="center"> 👨‍💻  Check out my repos to view some of my work   👨‍💻</h2>
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" ">
-</p>
-                                                                                                                                                      
-<script src="https://tryhackme.com/badge/46787"></script>                                                                                                                                              
+</p>                                                                                                                                           
 
 
 <img align="right" height="250px" width="200px" alt="shubhank octocat" src="octocat.png" >
