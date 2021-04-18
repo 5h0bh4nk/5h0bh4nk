@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
 <h3 align="center">A budding developer keen to learn</h3>
 <div class="align-items-center">
@@ -37,3 +36,5 @@
 - 📫 Connect with me through linkedin , insta or via mail.<br>
 - ⚡ <b>Fun fact: Banging your head against a wall for one hour burns 150 calories.</b><br>
 
+extra_javascript:
+    <script src="https://tryhackme.com/badge/46787"></script>
