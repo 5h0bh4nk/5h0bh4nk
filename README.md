@@ -3,8 +3,9 @@
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
 <h3 align="center">A budding developer keen to learn</h3>
 <div class="align-items-center">
+<script src="https://tryhackme.com/badge/46787"></script>
 <a href="https://https://www.linkedin.com/in/shubhank-kulshreshtha-782627190/">
-  <img align="left" alt="Shubhank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Shubhank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;
 </a>
 <a href="https://www.instagram.com/dekul_shubhank/">
   <img align="left" alt="Shubhank's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -21,9 +22,9 @@
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" ">
 </p>
 <p align="center">
-             <script src="https://tryhackme.com/badge/46787"></script>
+            <img src="https://tryhackme-badges.s3.amazonaws.com/TrivalenT.png" alt="TryHackMe">
 </p>
-
+<br>
 
 <img align="right" height="250px" width="200px" alt="shubhank octocat" src="octocat.png" >
 
