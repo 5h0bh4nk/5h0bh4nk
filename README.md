@@ -2,7 +2,6 @@
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
 <h3 align="center">A budding developer keen to learn</h3>
 <div class="align-items-center">
-<script src="https://tryhackme.com/badge/46787"></script>
 <a href="https://https://www.linkedin.com/in/shubhank-kulshreshtha-782627190/">
   <img align="left" alt="Shubhank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;
 </a>
