@@ -19,9 +19,7 @@
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=5h0bh4nk&show_icons=true&count_private=true" alt="ShubhanK" ">
 </p>
-<p align="center">
-            <img src="https://tryhackme-badges.s3.amazonaws.com/TrivalenT.png" alt="TryHackMe">
-</p>
+
 <br>
 
 <img align="right" height="250px" width="200px" alt="shubhank octocat" src="octocat.png" >
@@ -33,7 +31,4 @@
 - 🍔 Food is my life.<br>
 - 💬 Ask me anythin .Happy to help .<br>
 - 📫 Connect with me through linkedin , insta or via mail.<br>
-- ⚡ <b>Fun fact: Banging your head against a wall for one hour burns 150 calories.</b><br>
-
-extra_javascript:
-    <script src="https://tryhackme.com/badge/46787"></script>
+- ⚡ <b>Fun fact: Banging your head against a wall for one hour burns 150 calories😉
