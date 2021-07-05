@@ -2,7 +2,6 @@
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
 <h3 align="center">A budding developer keen to learn</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5h0bh4nk&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhank" /> </p>
-![](https://hit.yhype.me/github/profile?user_id=62099471)
 <div class="align-items-center">
 <a href="https://https://www.linkedin.com/in/shubhank-kulshreshtha-782627190/">
   <img align="left" alt="Shubhank's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />&nbsp;
@@ -37,3 +36,6 @@
 - 💬 Ask me anythin .Happy to help .<br>
 - 📫 Connect with me through linkedin , insta or via mail.<br>
 - ⚡ <b>Fun fact: Banging your head against a wall for one hour burns 150 calories😉
+                                                                                        
+                                                                                        
+![](https://hit.yhype.me/github/profile?user_id=62099471)
