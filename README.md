@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently an undergrad at <b>NIT , Warangal</b> .<br>
 - 📖 Learning new stuff is my hobby .<br>
-- 👨‍💻 Fusing Coding to my DNA .<br>
+- 👨‍💻 Need help with kubernetes .<br>
 - 💻 Learning js frameworks .<br>
 - 🍔 Food is my life.<br>
 - 💬 Ask me anythin .Happy to help .<br>
