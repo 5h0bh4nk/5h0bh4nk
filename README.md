@@ -1,6 +1,6 @@
 
 <h1 align="center">Yo ✌️, I'm ShubhanK</h1>
-<h3 align="center">A budding developer keen to learn</h3>
+<h3 align="center">Software Developer @Salesforce</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=5h0bh4nk&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhank" /> </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 - 🌱 I’m currently an undergrad at <b>NIT , Warangal</b> .<br>
 - 📖 Learning new stuff is my hobby .<br>
 - 👨‍💻 Need help with kubernetes .<br>
-- 💻 Learning js frameworks .<br>
+- 💻 Coding amazing projects . <br>
 - 🍔 Food is my life.<br>
 - 💬 Ask me anythin .Happy to help .<br>
 - 📫 Connect with me through linkedin , insta or via mail.<br>
